@@ -1,2 +1,3 @@
-- DB : Lucene / Web Application Framework: Spring / API Framework : Swagger / 개발 언어 : Java
+- DB : Lucene / Web Application Framework: Spring / API Framework : Swagger /
+- 개발 언어 : Java
 - 서버 : Apache Tomcat
